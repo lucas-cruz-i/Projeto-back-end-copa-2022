@@ -37,23 +37,6 @@ Banco de Dados (MySQL ou outro utilizado no projeto)
 
 Insomnia – testes das requisições HTTP
 
-📊 Exemplo de Dados
-{
-  "id": 1,
-  "selecao": "Brasil",
-  "grupo": "A"
-}
-🚀 Rotas da API
-📌 GET – Listar seleções
-GET /selecoes
-📌 GET – Buscar por ID
-GET /selecoes/:id
-📌 POST – Criar nova seleção
-POST /selecoes
-📌 PUT – Atualizar seleção
-PUT /selecoes/:id
-📌 DELETE – Remover seleção
-DELETE /selecoes/:id
 🧠 Aprendizados
 
 Durante o desenvolvimento, foi possível:
