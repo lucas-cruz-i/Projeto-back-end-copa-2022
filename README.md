@@ -4,15 +4,15 @@ Este projeto é uma API RESTful desenvolvida para gerenciar dados das seleções
 
 Foi desenvolvido utilizando Node.js, Express e Nodemon, com integração a banco de dados para persistência das informações.
 
-📁 Funcionalidades
+## 📁 Funcionalidades
 
-✅ Listar todas as seleções
-✅ Buscar seleção por ID
-✅ Adicionar nova seleção
-✅ Atualizar dados de uma seleção
-✅ Remover uma seleção
-✅ Integração com banco de dados
-✅ Testes de rotas utilizando Insomnia
+- ✅ Listar todas as seleções  
+- ✅ Buscar seleção por ID  
+- ✅ Adicionar nova seleção  
+- ✅ Atualizar dados de uma seleção  
+- ✅ Remover uma seleção  
+- ✅ Integração com banco de dados  
+- ✅ Testes de rotas utilizando Insomnia  
 
 🧠 O que o Node.js faz?
 
