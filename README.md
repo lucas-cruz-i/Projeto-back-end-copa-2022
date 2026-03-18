@@ -1,4 +1,4 @@
-⚽ Projeto: API Copa do Mundo (Seleções)
+## ⚽ Projeto: API Copa do Mundo (Seleções)
 
 Este projeto é uma API RESTful desenvolvida para gerenciar dados das seleções da Copa do Mundo. A aplicação permite realizar operações completas de CRUD (Create, Read, Update e Delete), armazenando informações como id, nome da seleção e grupo.
 
@@ -14,7 +14,7 @@ Foi desenvolvido utilizando Node.js, Express e Nodemon, com integração a banco
 - ✅ Integração com banco de dados  
 - ✅ Testes de rotas utilizando Insomnia  
 
-🧠 O que o Node.js faz?
+## 🧠 O que o Node.js faz?
 
 O Node.js junto com o Express é responsável por:
 
@@ -25,7 +25,7 @@ O Node.js junto com o Express é responsável por:
 🗄️ Conectar com o banco de dados
 ⚙️ Processar as regras de negócio da aplicação
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Node.js – ambiente de execução JavaScript
 
@@ -37,7 +37,7 @@ Banco de Dados (MySQL ou outro utilizado no projeto)
 
 Insomnia – testes das requisições HTTP
 
-🧠 Aprendizados
+## 🧠 Aprendizados
 
 Durante o desenvolvimento, foi possível:
 
@@ -51,7 +51,7 @@ Testar endpoints com Insomnia
 
 Entender melhor o funcionamento de rotas e requisições HTTP
 
-📬 Contato
+## 📬 Contato
 
 Se quiser entrar em contato ou saber mais sobre o projeto:
 
@@ -61,7 +61,7 @@ Email: lutaytson225@gmail.com
 
 LinkedIn: linkedin.com/in/lucas-cruz-3348b6352
 
-📄 Licença
+## 📄 Licença
 
 Este projeto é voltado para estudos e aprendizado.
 Caso queira utilizar em produção ou comercialmente, entre em contato 😉
