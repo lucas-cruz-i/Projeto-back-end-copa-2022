@@ -55,7 +55,7 @@ O Node.js junto com o Express é responsável por:
 
 ---
 
-📬 Contato
+## 📬 Contato
 
 💻 GitHub: github.com/lucas-cruz-i
 
@@ -65,7 +65,7 @@ O Node.js junto com o Express é responsável por:
 
 ---
 
-##📄 Licença
+## 📄 Licença
 
 Este projeto é voltado para estudos e aprendizado.
 Caso queira utilizar em produção ou comercialmente, entre em contato 😉
